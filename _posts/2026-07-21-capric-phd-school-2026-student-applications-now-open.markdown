@@ -9,13 +9,15 @@ excerpt: "CaPriC PhD School 2026 – Student Applications Now Open"
 ---
 
 ## The 2nd Capri PhD School on Cyber Physical Cloud (CaPriC)
-#### Anacapri, Capri Island, Italy, October 19 - 23, 2026
+### Anacapri, Capri Island, Italy, October 19 - 23, 2026
+
 
 #### School overview
 
 Explore the fusion of real-time systems, virtualization, and cloud-edge platforms to build next-generation cyber-physical systems. Ideal for PhD students, early-stage researchers, industry practitioners, and master's degree students who are finishing their theses and intend to apply for a PhD, seeking deep academic insight and industrial know-how.
 
-#### 𝐖𝐡𝐲 𝐀𝐭𝐭𝐞𝐧𝐝?
+#### Why attend?
+
 - Master cutting-edge technologies driving industry and research
 - Work on real-world applications
 - Connect with leading academics, innovators, and peers
